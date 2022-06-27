@@ -1,0 +1,34 @@
+{
+	"trainingData": [
+		{
+			"id": 1,
+			"input": "concrete",
+			"output": "Hollow-Block White-Sand Cement Gravel"
+		},
+		{
+			"id": 2,
+			"input": "foundation",
+			"output": "Hollow-Block Stone Cement Gravel Steel-Matting"
+		},
+		{
+			"id": 2,
+			"input": "foundations",
+			"output": "Hollow-Block Stone Cement Gravel Steel-Matting"
+		},
+		{
+			"id": 3,
+			"input": "roof",
+			"output": "Tilespan Purlin Plywood Gutter"
+		},
+		{
+			"id": 4,
+			"input": "column",
+			"output": "Hollow-Block White-Sand Cement Gravel Steel-Matting"
+		},
+		{
+			"id": 5,
+			"input": "reinforced concrete",
+			"output": "Hollow-Block White-Sand Cement Gravel Steel-Matting"
+		}
+	]
+}
